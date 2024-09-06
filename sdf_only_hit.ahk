@@ -18,6 +18,7 @@ d::{
         SendEvent("{x up}")
     }
 }
+
 f::c
 Space::z
 
