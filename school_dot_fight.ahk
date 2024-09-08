@@ -43,7 +43,7 @@ interrupt(start) {
 
 pressOn(key) {
     SendEvent("{" key " down}")
-    Sleep(30)
+    Sleep(25)
     SendEvent("{" key " up}")
 }
 

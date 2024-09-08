@@ -14,7 +14,7 @@ d::{
     LogEvent("event")
     while (GetKeyState("D", "P")) {
         SendEvent("{x down}")
-        Sleep(40)
+        Sleep(25)
         SendEvent("{x up}")
     }
 }
